@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ASAP</string>
+    <string name="m1">WELCOME TO ASAP</string>
+    <string-array name="spin">
+        <item>"Operate as"</item>
+        <item>Student </item>
+        <item>Faculty</item>
+    </string-array>
+    <string name="pickup1">Girls Hostel</string>
+    <string name="pickup2">New Boys</string>
+    <string name="pickup3">Old Boys</string>
+    <string name="pickup4">Academics</string>
+    <string name="b1">Clear</string>
+    <string name="b2">Submit</string>
+    <string name="pass">Password</string>
+    <string name="id">Pilot_id</string>
+    <string name="m2">Choose Pickup Location</string>
+    <string name="sp1">Select</string>
+    <string name="m3">Destination</string>
+    <string name="sw">Available</string>
+    <string name="sw2">Not Available</string>
+    <string name="b5">Back</string>
+    <string name="m4">Pilot 1</string>
+    <string name="m5">AS SOON AS POSSIBLE</string>
+</resources>
